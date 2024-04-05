@@ -1,0 +1,1 @@
+# shapely-snapping-test
